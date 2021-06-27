@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mitreyem7.  My name is Tim Meyer.
+- 👋 Hi, I’m Tim Meyer, @mitreyem7.
 - 👀 I’m interested in joining a software engineering team as a junior developer.  I have the most experience with front end development, but am also interested in back end processes.
 - 🌱 I’m currently learning JSON and APIs at FreeCodeCamp.org
 - 📫 You can reach me at tfoxmeyer@gmail.com
