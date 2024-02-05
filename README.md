@@ -2,7 +2,7 @@
 - 👀 I’m interested in joining a software engineering team as a junior developer.  I have the most experience with front end development, but am also interested in back end processes.
 - 🌱 I’m currently learning JSON and APIs at FreeCodeCamp.org
 - Please view some of my recent projects here: https://mitreyem7.github.io/
-- 📫 You can reach me at tfoxmeyer@gmail.com
+- 📫 You can reach me at tim2meyer@gmail.com
 
 <!---
 mitreyem7/mitreyem7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
